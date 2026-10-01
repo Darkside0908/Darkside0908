@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,30,34,36&height=220&section=header&text=Muhammad%20Ghani%20N.&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cyber%20Security%20%26%20Cryptography%20%7C%20AI%20Systems&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,30,34,36&height=220&section=header&text=Muhammad%20Ghani%20N.&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cyber%20Security%20and%20Cryptography%20%7C%20AI%20Systems&descAlignY=58&descSize=18" width="100%" />
 
   <br/>
 
@@ -251,7 +251,7 @@ Skills: Web Application Security • API Security • IDOR • Auth Bypass • O
 
 <div align="center">
   <a href="https://github.com/Darkside0908">
-    <img src="https://github-profile-trophy.vercel.app/?username=Darkside0908&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=Darkside0908&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -261,7 +261,7 @@ Skills: Web Application Security • API Security • IDOR • Auth Bypass • O
 
 <div align="center">
   <a href="https://github.com/Darkside0908">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkside0908&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=6366F1&point=A855F7&area=true&area_color=4C1D95" width="100%" alt="Activity Graph" />
+    <img src="https://activity-graph.vercel.app/graph?username=Darkside0908&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=6366F1&point=A855F7&area=true&area_color=4C1D95" width="100%" alt="Activity Graph" />
   </a>
 </div>
 
