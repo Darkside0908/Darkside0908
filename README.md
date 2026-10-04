@@ -157,31 +157,41 @@ Structured with clean domain-driven service architecture, transaction-safe datab
 
 ### 💼 Engineering Experience
 
-```
-Senior Software & Security Engineer | Ghanz Agency / Independent
-Sep 2024 — Present
-• Spearheaded full-lifecycle software delivery across Web3, FinTech SaaS, and cryptographic systems.
-• Designed and shipped SIKRIT (ZK dead man's switch) and Ghanzmoney (multi-tenant personal finance SaaS).
-• Maintained automated CI/CD pipelines, containerized deployments, and reverse proxy infrastructures.
-Skills: Rust • Solana • TypeScript • React • Supabase • Docker • Linux • Nginx • Security Auditing
-```
+<details open>
+<summary><b>Senior Software & Security Engineer</b> — <i>Ghanz Agency / Independent</i> &nbsp;<code>Sep 2024 — Present</code></summary>
+<br/>
 
-```
-Cyber Security & Cryptography Cadre | Politeknik Siber dan Sandi Negara (BSSN)
-Oct 2022 — Present
-• Rigorous dual-track training in computer science foundations and offensive/defensive cyber operations.
-• Conducted cryptographic protocol verification, vulnerability analysis, and digital forensics.
-• Authored technical implementations in applied cryptography, network security, and secure firmware.
-Skills: Applied Cryptography • C/C++ • Network Security • Reverse Engineering • Zero Trust Architecture
-```
+- Spearheaded full-lifecycle software delivery across Web3, FinTech SaaS, and cryptographic systems.
+- Designed and shipped **SIKRIT** (ZK privacy dead man's switch on Solana) and **Ghanzmoney** (multi-tenant personal finance SaaS).
+- Maintained automated CI/CD pipelines, containerized deployments, and reverse proxy infrastructures.
 
-```
-Bug Bounty Researcher | Independent Security Research
-Jan 2023 — Present
-• Proactive vulnerability discovery across web applications, authentication mechanisms, and API targets.
-• Authored responsible disclosure reports detailing impact, proof-of-concepts, and remediation strategies.
-Skills: Web Application Security • API Security • IDOR • Auth Bypass • OWASP Top 10 • Burp Suite
-```
+> **Core Stack & Skills:** `Rust` • `Solana` • `TypeScript` • `React` • `Supabase` • `Docker` • `Linux` • `Nginx` • `Security Auditing`
+</details>
+
+<br/>
+
+<details open>
+<summary><b>Cyber Security & Cryptography Cadre</b> — <i>Politeknik Siber dan Sandi Negara (BSSN)</i> &nbsp;<code>Oct 2022 — Present</code></summary>
+<br/>
+
+- Rigorous dual-track engineering curriculum in computer science foundations and offensive/defensive cyber operations.
+- Conducted cryptographic protocol verification, vulnerability analysis, and digital forensics.
+- Authored technical implementations in applied cryptography, network security, and secure firmware.
+
+> **Core Stack & Skills:** `Applied Cryptography` • `C/C++` • `Network Security` • `Reverse Engineering` • `Zero Trust Architecture`
+</details>
+
+<br/>
+
+<details open>
+<summary><b>Bug Bounty Researcher</b> — <i>Independent Security Research</i> &nbsp;<code>Jan 2023 — Present</code></summary>
+<br/>
+
+- Proactive vulnerability discovery across web applications, authentication mechanisms, and API targets.
+- Authored responsible disclosure reports detailing impact, proof-of-concepts, and remediation strategies on HackerOne (`darkside0908`).
+
+> **Core Stack & Skills:** `Web Application Security` • `API Security` • `IDOR` • `Auth Bypass` • `OWASP Top 10` • `Burp Suite`
+</details>
 
 ---
 
@@ -275,30 +285,14 @@ Skills: Web Application Security • API Security • IDOR • Auth Bypass • O
 
 ---
 
-### 🎯 Current Focus
+### 🎯 Current Focus & Engineering Radar
 
-```yaml
-engineer:
-  name: "Muhammad Ghani Nurramdhan"
-  alias: "Darkside0908"
-  role: "Software & Security Engineer"
-  academic: "Politeknik Siber dan Sandi Negara (BSSN)"
-  current_status:
-    learning:
-      - "Zero-Knowledge Circuit Design (Halo2 & Circom)"
-      - "Solana Runtime Internals & BPF Syscall Optimization"
-      - "Formal Verification of Distributed Smart Contracts"
-    building:
-      - "SIKRIT Protocol — Privacy-Preserving Dead Man's Switch on Solana"
-      - "Ghanzmoney SaaS — Next-Gen Multi-Tenant Wealth Management Engine"
-    exploring:
-      - "Autonomous AI Agent Swarms with Tool-Using Protocol Governance"
-      - "High-Throughput Cryptographic Primitives in Embedded Environments"
-    open_to:
-      - "High-Impact Software Engineering Roles"
-      - "Security & Cryptographic Protocol Audits"
-      - "Web3 Hackathon Collaborations & Technical Advisory"
-```
+| Domain | Status | Key Initiatives & Technical Direction |
+| :--- | :---: | :--- |
+| **🛠️ Building** | `Active` | • **[SIKRIT Protocol](https://github.com/Darkside0908/SIKRIT)** — Privacy-Preserving Dead Man's Switch on Solana (ZK Schnorr + Shamir $GF(2^8)$ + HPKE)<br/>• **[Ghanzmoney SaaS](https://ghanzmoney.qzz.io)** — Multi-Tenant Wealth Management Engine with Real-Time Bank Reconciliation |
+| **🌱 Deep Dives** | `In Progress` | • Zero-Knowledge Circuit Engineering (Halo2, Circom & Groth16)<br/>• Solana Runtime Internals & BPF Syscall Optimization<br/>• Formal Verification of Distributed Smart Contracts |
+| **🔬 Exploring** | `R&D` | • Autonomous AI Agent Swarms with Tool-Using Protocol Governance<br/>• High-Throughput Cryptographic Primitives in Embedded Environments |
+| **🤝 Available For** | `Open` | • High-Impact Software & Cryptographic Engineering Roles<br/>• Smart Contract & Cryptographic Protocol Audits<br/>• Web3 Hackathon Collaborations & Technical Advisory |
 
 ---
 
@@ -306,15 +300,19 @@ engineer:
 
 <div align="center">
   <a href="mailto:mghani0908@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mghani0908%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-mghani0908%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/mghani0908">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Ghani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/Darkside0908">
-    <img src="https://img.shields.io/badge/GitHub-Darkside0908-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://t.me/mghani0908">
+    <img src="https://img.shields.io/badge/Telegram-@mghani0908-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://hackerone.com/darkside0908">
+    <img src="https://img.shields.io/badge/HackerOne-darkside0908-000000?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" />
   </a>
 </div>
 
